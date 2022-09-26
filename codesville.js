@@ -23,3 +23,5 @@ function chooseStation (stations) {
 
 
 console.log(chooseStation(stations));
+
+

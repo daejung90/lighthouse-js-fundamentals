@@ -5,7 +5,7 @@ if(i % 3 === 0 && i % 4 === 0){
     result.push('LoopyLighthouse')
 } else if (i % 3 === 0){
     result.push('Lighthouse')
-} else if (i% 4 === 0){
+} else if (i % 4 === 0){
     result.push('Loopy')
 }else {
     result.push(i)
